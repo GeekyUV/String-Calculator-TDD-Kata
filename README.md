@@ -29,7 +29,7 @@ The following test cases are covered:
 - clone the repository
 
 ```bash
-git clone https://github.com/GeekyUV/StringCalculatorTDD.git
+https://github.com/GeekyUV/String-Calculator-TDD-Kata.git
 
 ```
 
