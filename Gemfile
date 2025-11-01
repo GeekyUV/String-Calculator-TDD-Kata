@@ -64,3 +64,8 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+# TDD and Coverage
+gem 'rspec-rails'
+gem 'simplecov', require: false
+gem 'rails-controller-testing' #for assert template
