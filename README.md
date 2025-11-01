@@ -51,6 +51,8 @@ bundle exec rspec
  open coverage/index.html
 ```
 
+![Test Coverage](./Coverage.png)
+
 
 #### you are ready to go! 
 - this is is implementation for Rspec gem test unit suites 
